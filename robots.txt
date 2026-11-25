@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /private/
-
-Sitemap: https://ivanov.github.io/webmaster-lab/sitemap.xml
